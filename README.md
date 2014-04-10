@@ -9,5 +9,3 @@ See [http://fastml.com/cifar-convolutions-or-object-recognition-in-images](http:
 		from a multiview predictions file (lower error)
 	shownet.py - a version with `--write-predictions` and `--multiview-test`
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zygmuntz/kaggle-cifar/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
